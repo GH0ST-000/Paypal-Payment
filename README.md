@@ -1,5 +1,3 @@
-# Paypal-Payment
-# Paypal-Payment
 ## Installation
 
 1. Download the archive or clone the project using git
